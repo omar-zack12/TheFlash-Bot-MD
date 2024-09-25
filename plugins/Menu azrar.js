@@ -43,7 +43,6 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
 ┆⚙️ ↜اسـم الـبـوت↶﹝𝐅𝐋𝐀𝐒𝐇﹞
 ┆🪄 ↜الـمـطـور ↶﹝𝐅𝐋𝐀𝐒𝐇_𝐓𝐄𝐀𝐌﹞
 ┆📌 ↜الـتـشـغـيـل ↶﹝${uptime}﹞
-┆📆 ↜الـتـاريـخ ↶﹝${date}﹞
 ┆🔖 ↜الــمــســتـخـدمـيـن ↶﹝${rtotalreg}﹞
 ╯───────────────────⟢ـ
 > © 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊 2025`,subtitle: "HARLEY",},header: { hasMediaAttachment: true,...(await prepareWAMessageMedia({ image : { url: harley } }, { upload: conn.waUploadToServer }, {quoted: m}))},

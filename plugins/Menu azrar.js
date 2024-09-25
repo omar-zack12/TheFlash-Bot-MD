@@ -132,6 +132,10 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
               buttonParamsJson: '{"display_text":"⌈✅╎المطورين╎✅⌋","id":".المطور"}'
                      },
                      {
+              name: "quick_reply",
+              buttonParamsJson: '{"display_text":"⌈🙌╎الاشتراكات╎🙌⌋","id":".الباقات"}'
+                     },
+                     {
                name: "cta_url",
                buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الــبــوت╎📲⌋","url":"https://whatsapp.com/channel/0029ValRCUIFi8xmK9xBOr0I","merchant_url":"https://whatsapp.com/channel/0029ValRCUIFi8xmK9xBOr0I"}'
                             }

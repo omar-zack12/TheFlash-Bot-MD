@@ -4,7 +4,7 @@ const { prepareWAMessageMedia } = pkg;
 const handler = async (m, { conn }) => {
     await conn.sendMessage(m.chat, { react: { text: '🚀', key: m.key } });
 
-    const harley = 'https://envs.sh/wBC.jpg';
+    const harley = 'https://envs.sh/06H.jpg';
 
     let messageContent = {
         viewOnceMessage: {

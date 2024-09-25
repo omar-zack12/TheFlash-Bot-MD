@@ -13,7 +13,7 @@ const handler = async (m, { conn }) => {
                     header: { title: 'HARLEY' },
                     body: {
                         text: `━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━
-> 𝐓𝐎𝐆𝐀﹝🌸﹞𝐁𝐎𝐓
+> 𝐅𝐋𝐀𝐒𝐇﹝⚡️﹞𝐁𝐎𝐓
 > 〔 الاشتراك الاسبوعي┊ ˼‏ 🚀˹ ↶〕
 *⋅ ───━ •﹝👑﹞• ━─── ⋅*
             *توغا بــ🤖ــوت*
@@ -34,7 +34,7 @@ const handler = async (m, { conn }) => {
 ╝───────────────¤
 *⋅ ───━ •﹝👑﹞• ━─── ⋅*
 > 〔تـوقـيـع┊ ˼‏📜˹ 〕↶
-⌠𝐓𝐎𝐆𝐀﹝🌸﹞𝐁𝐎𝐓⌡
+⌠𝐅𝐋𝐀𝐒𝐇﹝⚡️﹞𝐁𝐎𝐓⌡
 *⋅ ───━ •﹝👑﹞• ━─── ⋅*`,
                         subtitle: "HARLEY"
                     },
@@ -47,6 +47,10 @@ const handler = async (m, { conn }) => {
                             {
                                 name: "cta_url",
                                 buttonParamsJson: '{"display_text":"⌈🚀╎𝐁𝐔𝐘 ˹💰˼ 𝐍𝐎𝐖╎🚀⌋","url":"https://api.whatsapp.com/send?phone=+972546887176","merchant_url":"https://api.whatsapp.com/send?phone=+972546887176"}'
+                            },
+                            {
+                               name: "cta_url",
+                                buttonParamsJson: '{"display_text":"⌈🚀╎𝐁𝐔𝐘 ˹💰˼ 𝐍𝐎𝐖╎🚀⌋","url":"https://api.whatsapp.com/send?phone=+201224563219","merchant_url":"https://api.whatsapp.com/send?phone=+201224563219"}'
                             },
                             {
                                 name: "cta_url",

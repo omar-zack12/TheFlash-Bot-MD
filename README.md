@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.menu">Comunicarse con el bot</a>
+  <a href="https://api.whatsapp.com/send?phone=+5491123604563&text=&text=.menu">Comunicarse con el bot</a>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send?phone=+265884756906&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
+  <a href="https://api.whatsapp.com/send?phone=+5491123604563&text=&text=.اوامر">الــتــواصـل مـع الــبــوت</a>
 
 # `Flash-Bot` 
 

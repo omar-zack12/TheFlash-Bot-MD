@@ -19,5 +19,5 @@ else throw '╰⊱❗️⊱ *الامر واقف يابن الفقرية 🗿* �
 }}
 handler.help = ['wm <packname>|<author>']
 handler.tags = ['sticker']
-handler.command = /^سرقة|wm$/i
+handler.command = /^سرقة|سرقه$/i
 export default handler
